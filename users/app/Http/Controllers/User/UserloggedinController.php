@@ -254,7 +254,7 @@ class UserloggedinController extends Controller
         if ($existsInKycTable) {
             // User with the specified email exists in the kyc_verification table
             // You can redirect, show a message, or perform any other actions
-            return redirect()->route('kyc_upload_pay')->with('message', 'User exists in the kyc_verification table.');
+            return redirect()->route('profile')->with('success', 'KYC uploaded, kindly wait for verification');
         } else {
             return view('Userview.kyc_upload');
         }

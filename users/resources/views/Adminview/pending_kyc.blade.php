@@ -60,12 +60,9 @@
                                     <tr>
                                        <th >Name</th>
                                        <th >Email</th>
-                                       <th>Trans ID</th>
                                        <th >Status</th>
                                        <th >ID front</th>
                                        <th >ID Back</th>                                       
-                                       <th >Coin</th>
-                                       <th >Proof</th>
                                        <th >Date/Time</th>
                                        <th >Control</th>
                                     </tr>
@@ -75,7 +72,6 @@
                                        @foreach ($pending_kyc as $pending_kycs)
                                        <td style="font-size: 16px;" class="font-w400 ">{{ $pending_kycs->fullname }}</td>
                                        <td style="font-size: 16px;" class="font-w400 ">{{ $pending_kycs->email }}</td>
-                                       <td style="font-size: 16px;" class="font-w400 ">{{ $pending_kycs->transaction_id }}</td>
                                        <td style="font-size: 16px;" class="font-w400 ">{{ $pending_kycs->status }}</td>
                                        <td style="font-size: 16px;" class="font-w400 ">
                                           <a href="{{ url('storage/kyc_id/' . $pending_kycs->id_front) }}">
@@ -85,12 +81,6 @@
                                        <td style="font-size: 16px;" class="font-w400 ">
                                           <a href="{{ url('storage/kyc_id/' . $pending_kycs->id_back) }}">
                                              <img id="blah" src="{{ url('storage/kyc_id/' . $pending_kycs->id_back) }}" style="border-radius: 10%;  height: 150px;" alt="Uploaded Image">
-                                          </a>
-                                       </td>
-                                       <td style="font-size: 16px;" class="font-w400 ">{{ $pending_kycs->coin_type }}</td>
-                                       <td style="font-size: 16px;" class="font-w400 ">
-                                          <a href="{{ url('storage/kyc_payment_proof/' . $pending_kycs->proof) }}">
-                                             <img id="blah" src="{{ url('storage/kyc_payment_proof/' . $pending_kycs->proof) }}" style="border-radius: 10%;  height: 150px;" alt="Uploaded Image">
                                           </a>
                                        </td>
                                        <td style="font-size: 16px;" class="font-w400 ">{{ $pending_kycs->dateadd->format('F j, Y g:i A') }}</td>

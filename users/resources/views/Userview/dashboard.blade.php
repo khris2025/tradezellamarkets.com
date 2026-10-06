@@ -1,4 +1,6 @@
-@extends('Userview.layouts.app') @section('content') @error('message')
+@extends('Userview.layouts.app') 
+@section('content') 
+@error('message')
 <script>
     Swal.fire({
     icon: 'error',

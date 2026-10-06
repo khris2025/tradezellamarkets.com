@@ -18,7 +18,6 @@ class kyc_user extends Controller
         $validatedData = $request->validate([
             'id_front' => 'required|image|mimes:jpeg,png,jpg,gif',
             'id_back' => 'required|image|mimes:jpeg,png,jpg,gif',
-            'payment_coin' => 'nullable|string',
         ]);
         $currentDate = Carbon::now();
         $user = Auth::user();
@@ -36,7 +35,7 @@ class kyc_user extends Controller
 
         $kyc->fullname = $user->fullname;
         $kyc->email = $user->email;
-        $kyc->coin_type = $request->input('payment_coin');
+        $kyc->coin_type = "none";
         $kyc->id_front = $filename_front;
         $kyc->id_back = $filename_back;
         $kyc->dateadd = $currentDate;
@@ -45,7 +44,7 @@ class kyc_user extends Controller
 
 
         $kyc->save();
-        return redirect()->route('kyc_upload_pay')->with('success', 'ID successfully uploaded.');
+        return redirect()->route('kyc_upload')->with('success', 'ID successfully uploaded.');
     }
 
 

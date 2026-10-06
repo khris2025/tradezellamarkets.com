@@ -41,7 +41,7 @@ class admin_pagecontroller extends Controller
 
     public function pending_kyc()
     {
-        $pending_kyc = kyc_verification::where('status', 'unconfirmed')->get();
+        $pending_kyc = kyc_verification::where('status', 'pending')->get();
         return view('Adminview.pending_kyc', compact('pending_kyc'));
     }
 
