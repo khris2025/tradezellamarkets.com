@@ -412,7 +412,7 @@
               <p class="text">The one tool that lets you do everything you need to improve your trading strategy. Get
                 started today.</p>
             </div>
-            <a id="get-started-footer" href="https://users.tradezellamarkets.com/register" target="_blank"
+            <a id="get-started-footer" href="https://tradezellamarkets.com/register" target="_blank"
               class="large-button large-button-home w-inline-block">
               <div class="large-button-hover"></div>
               <div class="large-button-text">Get Started Today<span class="right-arrow-white">&gt;</span></div>

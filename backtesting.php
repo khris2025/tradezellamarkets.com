@@ -259,7 +259,7 @@
                 all. All the tools you need in one place to become the trader you want to be. </div>
             </div>
           </div>
-          <a href="https://users.tradezellamarkets.com/register" target="_blank"
+          <a href="https://tradezellamarkets.com/register" target="_blank"
             class="large-button large-button-home is-smaller w-inline-block">
             <div class="large-button-hover"></div>
             <div class="large-button-text">Get Started<span class="right-arrow-white">&gt;</span></div>
@@ -413,7 +413,7 @@
                       loading="lazy" class="image-full-width z-index-1" /></div>
                 </div>
               </div>
-              <a href="https://users.tradezellamarkets.com/register" target="_blank"
+              <a href="https://tradezellamarkets.com/register" target="_blank"
                 class="large-button large-button-home is-smaller w-inline-block">
                 <div class="large-button-hover"></div>
                 <div class="large-button-text">Get Started<span class="right-arrow-white">&gt;</span></div>
@@ -621,7 +621,7 @@
               </div>
             </div>
             <div class="margin-top-24">
-              <a href="https://users.tradezellamarkets.com/register" target="_blank"
+              <a href="https://tradezellamarkets.com/register" target="_blank"
                 class="large-button large-button-home is-smaller w-inline-block">
                 <div class="large-button-hover"></div>
                 <div class="large-button-text">Get Started<span class="right-arrow-white">&gt;</span></div>
@@ -748,7 +748,7 @@
               </div>
             </div>
             <div class="margin-top-48 is-24-landscape">
-              <a href="https://users.tradezellamarkets.com/register" target="_blank"
+              <a href="https://tradezellamarkets.com/register" target="_blank"
                 class="large-button large-button-home is-smaller w-inline-block">
                 <div class="large-button-hover"></div>
                 <div class="large-button-text">Get Started<span class="right-arrow-white">&gt;</span></div>
@@ -817,7 +817,7 @@
           </div>
           <div class="backtesting-features_buton-holder">
             <div class="margin-top-72 is-48-landscape">
-              <a href="https://users.tradezellamarkets.com/register" target="_blank"
+              <a href="https://tradezellamarkets.com/register" target="_blank"
                 class="large-button large-button-home is-smaller w-inline-block">
                 <div class="large-button-hover"></div>
                 <div class="large-button-text">Get Started<span class="right-arrow-white">&gt;</span></div>
@@ -2635,7 +2635,7 @@
               <p class="text">The one tool that lets you do everything you need to improve your trading strategy. Get
                 started today.</p>
             </div>
-            <a href="https://users.tradezellamarkets.com/register" target="_blank"
+            <a href="https://tradezellamarkets.com/register" target="_blank"
               class="large-button large-button-home is-smaller w-inline-block">
               <div class="large-button-hover"></div>
               <div class="large-button-text">Get Started Today<span class="right-arrow-white">&gt;</span></div>

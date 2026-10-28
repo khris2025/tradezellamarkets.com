@@ -120,7 +120,7 @@
             <!-- CONTENT -->
             <div class="content">
 
-                <img class="logo" src="https://users.tradezellamarkets.com/public/assets/images/logo2.png" alt="Company Logo">
+                <img class="logo" src="https://tradezellamarkets.com/public/assets/images/logo2.png" alt="Company Logo">
 
                 <h2>Welcome, {{ $user->fullname }}</h2>
 

@@ -13,7 +13,7 @@
                     </div>
                     <div class="footer-1">
                         <div id="w-node-_0b9a291c-a7e6-917b-3094-99c995b31f8d-4b19c3a8" class="footer-1---1"><a
-                                href="https://users.tradezellamarkets.com" target="_blank"
+                                href="https://tradezellamarkets.com" target="_blank"
                                 class="footer-link-light _5em-bottom-margin">Log In</a><a href="features.php"
                                 class="footer-link-light _5em-bottom-margin">Features</a>
                         </div>

@@ -235,7 +235,7 @@
             <h1 class="_375em-bottom-margin">Every Feature You Need to Trade Better</h1>
             <div class="text-block-2">No more navigating multiple spreadsheets, platforms, or papers. Everything you
               need to become a powerful trader is here.</div>
-            <div class="_2-button-lockup"><a href="https://users.tradezellamarkets.com/register" target="_blank"
+            <div class="_2-button-lockup"><a href="https://tradezellamarkets.com/register" target="_blank"
                 class="medium-button rich-purple w-button">Start Trading <span
                   class="right-arrow-white">&gt;</span></a></div>
           </div>
@@ -428,7 +428,7 @@
                     </div>
                   </div>
                 </div>
-                <a href="https://users.tradezellamarkets.com/register" target="_blank" class="medium-button w-button">Learn
+                <a href="https://tradezellamarkets.com/register" target="_blank" class="medium-button w-button">Learn
                   More <span class="right-arrow-dark">&gt;</span></a>
               </div>
             </div>
@@ -509,7 +509,7 @@
                     </div>
                   </div>
                 </div>
-                <a href="https://users.tradezellamarkets.com/register" target="_blank" class="medium-button w-button">Learn
+                <a href="https://tradezellamarkets.com/register" target="_blank" class="medium-button w-button">Learn
                   More <span class="right-arrow-dark">&gt;</span></a>
               </div>
             </div>
@@ -575,7 +575,7 @@
                     </div>
                   </div>
                 </div>
-                <a href="https://users.tradezellamarkets.com/register" target="_blank" class="medium-button w-button">Learn
+                <a href="https://tradezellamarkets.com/register" target="_blank" class="medium-button w-button">Learn
                   More <span class="right-arrow-dark">&gt;</span></a>
               </div>
             </div>
@@ -646,7 +646,7 @@
                     </div>
                   </div>
                 </div>
-                <a href="https://users.tradezellamarkets.com/register" target="_blank" class="medium-button w-button">Learn
+                <a href="https://tradezellamarkets.com/register" target="_blank" class="medium-button w-button">Learn
                   More <span class="right-arrow-dark">&gt;</span></a>
               </div>
             </div>
@@ -775,7 +775,7 @@
                     </div>
                   </div>
                 </div>
-                <a href="https://users.tradezellamarkets.com/register" target="_blank" class="medium-button w-button">Learn
+                <a href="https://tradezellamarkets.com/register" target="_blank" class="medium-button w-button">Learn
                   More <span class="right-arrow-dark">&gt;</span></a>
               </div>
             </div>
@@ -801,7 +801,7 @@
               <h3 class="white-text _375em-bottom-margin"><strong>Powerful Journaling</strong></h3>
               <p>Discover how journaling can help you learn from your mistakes to build consistency.</p>
             </div>
-            <div class="content-box-bottom-button-left"><a href="https://users.tradezellamarkets.com/register"
+            <div class="content-box-bottom-button-left"><a href="https://tradezellamarkets.com/register"
                 target="_blank" class="text-button white-text w-button">Learn more<span
                   class="solid-icons-override-right"></span></a></div>
           </div>
@@ -813,7 +813,7 @@
               <h3 class="white-text _375em-bottom-margin"><strong>Advanced Analytics</strong></h3>
               <p>Identify what&#x27;s actually working for you based on real data. No more guessing games.</p>
             </div>
-            <div class="content-box-bottom-button-left"><a href="https://users.tradezellamarkets.com/register"
+            <div class="content-box-bottom-button-left"><a href="https://tradezellamarkets.com/register"
                 target="_blank" class="text-button white-text w-button">Learn more<span
                   class="solid-icons-override-right"></span></a></div>
           </div>
@@ -826,7 +826,7 @@
               <p>Find the answers to all of your questions. Best setup, worst trading day, most profitable timeframe,
                 and more.</p>
             </div>
-            <div class="content-box-bottom-button-left"><a href="https://users.tradezellamarkets.com/register"
+            <div class="content-box-bottom-button-left"><a href="https://tradezellamarkets.com/register"
                 target="_blank" class="text-button white-text w-button">Learn more<span
                   class="solid-icons-override-right"></span></a></div>
           </div>
@@ -838,7 +838,7 @@
               <h3 class="white-text _375em-bottom-margin"><strong>Trade Replay</strong></h3>
               <p>Replaying your trades to find the flaws in your execution and fine tune your strategy.</p>
             </div>
-            <div class="content-box-bottom-button-left"><a href="https://users.tradezellamarkets.com/register"
+            <div class="content-box-bottom-button-left"><a href="https://tradezellamarkets.com/register"
                 target="_blank" class="text-button white-text w-button">Learn more<span
                   class="solid-icons-override-right"></span></a></div>
           </div>

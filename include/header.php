@@ -20,9 +20,9 @@
 
                         <a href="contact-us.php" class="nav-link w-nav-link">Contact-Us</a>
                         <div class="nav-right-holder">
-                            <a id="log-in-nav" href="https://users.tradezellamarkets.com" target="_blank"
+                            <a id="log-in-nav" href="https://tradezellamarkets.com" target="_blank"
                                 class="nav-link w-nav-link">Log In</a>
-                            <a id="get-started-nav" href="https://users.tradezellamarkets.com/register" target="_blank"
+                            <a id="get-started-nav" href="https://tradezellamarkets.com/register" target="_blank"
                                 class="large-button large-button-nav w-inline-block">
                                 <div class="large-button-hover"></div>
                                 <div class="large-button-text">Get Started<span class="right-arrow-white">&gt;</span>
