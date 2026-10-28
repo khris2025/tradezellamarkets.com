@@ -113,7 +113,7 @@
             <div class="content">
 
                 <!-- LOGO -->
-                <img class="logo" src="https://tradezellamarkets.com/public/assets/images/logo2.png" alt="Company Logo">
+                <!-- <img class="logo" src="https://tradezellamarkets.com/public/assets/images/logo2.png" alt="Company Logo"> -->
 
                 <h2>Withdrawal Successful</h2>
 
