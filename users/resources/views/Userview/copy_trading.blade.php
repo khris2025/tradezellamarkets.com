@@ -127,7 +127,7 @@
                         <i class="far fa-star"></i>
                      </div>
                      <div class="d-flex justify-content-center">
-                        <a href="{{ $trader->tgLink }}" target="_blank" class="copy-expert">Contact Expert via telegram</a>
+                        <a href="{{ $trader->tgLink }}"  class="copy-expert">Contact Expert via telegram</a>
                      </div>
                   </div>
                </div>

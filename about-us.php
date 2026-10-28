@@ -344,13 +344,13 @@
                             <br>
                             <a style="color: white;"
                                 href="https://www.google.com/goto?url=CAESbQHuR6pNHyL1be4lNLO75sBzhw0WgnMDj2Zc3NeQQzF5NTsu_iB6SUoallV634tDWPKswKnYjZ4aTdmDuYTeguwhw3fyZRxFHxzJ5aZW8CBApUymayt-akjTYLnJXKdN-IQBpYHtKmPghPTD9to="
-                                target="_blank" rel="noopener noreferrer">
+                                 rel="noopener noreferrer">
                                 Link to read more
                             </a>
                             <br>
                             <a style="color: white;"
                                 href="https://www.google.com/goto?url=CAESbwHuR6pNYLGHgzy_a-QrQ86T7FfzR3q5fwiioGrtZJjISW-zmAC3Bk67ZbQfgHbyFrnu5s2xQ8EJeYfZDAtFdUhucJwf8OilX2e8R8Njjct4TAdqies0m1OarUW12nfWEeJSSATPhq-giW8SrHm9SA=="
-                                target="_blank" rel="noopener noreferrer">
+                                 rel="noopener noreferrer">
                                 Link to read more
                             </a>
 

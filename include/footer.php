@@ -13,7 +13,7 @@
                     </div>
                     <div class="footer-1">
                         <div id="w-node-_0b9a291c-a7e6-917b-3094-99c995b31f8d-4b19c3a8" class="footer-1---1"><a
-                                href="https://tradezellamarkets.com" target="_blank"
+                                href="https://tradezellamarkets.com" 
                                 class="footer-link-light _5em-bottom-margin">Log In</a><a href="features.php"
                                 class="footer-link-light _5em-bottom-margin">Features</a>
                         </div>
@@ -36,7 +36,7 @@ window.smartsupp||(function(d) {
   c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
 })(document);
 </script>
-<noscript>Powered by <a href="https://www.smartsupp.com" target="_blank">Smartsupp</a></noscript>
+<noscript>Powered by <a href="https://www.smartsupp.com" >Smartsupp</a></noscript>
 
 
  <div id="ssa-activity-notification-root">

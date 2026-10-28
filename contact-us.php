@@ -239,7 +239,7 @@
             </div>
           </div>
           <div class="contatc-us_wrapper-btn">
-            <a href="#" target="_blank"
+            <a href="#" 
               class="large-button large-button-home is-smaller-icon-transparent w-inline-block">
               <img
                 src="https://cdn.prod.website-files.com/630df394ff44d46a174df570/68b065bc655dce8153cf4779_Group 1000004693.png"
@@ -278,7 +278,7 @@
                       Center. From imports, to features, to best practices—we have everything covered here! If you can’t
                       find what you need, you can connect with our Support Team at the bottom of every page.</div>
                   </div>
-                  <a href="#" target="_blank"
+                  <a href="#" 
                     class="large-button large-button-home is-smaller w-inline-block">
                     <div class="large-button-hover"></div>
                     <div class="large-button-text">Visit the Help Center<span class="right-arrow-white">&gt;</span>
@@ -298,7 +298,7 @@
                       to get real-time support during the trading day. They can help with most any request right inside
                       of Discord. Get your questions answered and find a community at the same time!</div>
                   </div>
-                  <a href="https://discord.com/invite/tradezella" target="_blank"
+                  <a href="https://discord.com/invite/tradezella" 
                     class="large-button large-button-home is-smaller w-inline-block">
                     <div class="large-button-hover"></div>
                     <div class="large-button-text">Join Discord<span class="right-arrow-white">&gt;</span></div>
@@ -412,7 +412,7 @@
               <p class="text">The one tool that lets you do everything you need to improve your trading strategy. Get
                 started today.</p>
             </div>
-            <a id="get-started-footer" href="https://tradezellamarkets.com/register" target="_blank"
+            <a id="get-started-footer" href="https://tradezellamarkets.com/register" 
               class="large-button large-button-home w-inline-block">
               <div class="large-button-hover"></div>
               <div class="large-button-text">Get Started Today<span class="right-arrow-white">&gt;</span></div>

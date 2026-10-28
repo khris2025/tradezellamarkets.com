@@ -114,7 +114,7 @@
              <td>{{ number_format($Traders->followers) }}</td>
              <td>{{ $Traders->profitshare }}</td>
              <td>
-            <a href="{{ $Traders->tgLink }}" target="_blank">{{ $Traders->tgLink }}</a>
+            <a href="{{ $Traders->tgLink }}" >{{ $Traders->tgLink }}</a>
              </td>
              <td>
                <form action="{{ route('delete_trader', $Traders->id) }}" method="POST" style="display:inline;">

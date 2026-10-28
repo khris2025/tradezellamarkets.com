@@ -289,7 +289,7 @@
                                                     class="bold-text-2">14 days Money-Back Guarantee</strong></p>
                                         </div>
                                         <a id="get-started-hero" href="https://tradezellamarkets.com/register"
-                                            target="_blank" class="large-button large-button-home w-inline-block">
+                                             class="large-button large-button-home w-inline-block">
                                             <div class="large-button-hover"></div>
                                             <div class="large-button-text">Get Started Now</div>
                                         </a>
@@ -702,7 +702,7 @@
                             <div class="home-trades_wrapper-card">
                                 <a id="w-node-_98bd8ddd-c186-68d8-0ddf-6094759ca50e-f84df573"
                                     data-w-id="98bd8ddd-c186-68d8-0ddf-6094759ca50e"
-                                    href="https://tradezellamarkets.com/register" target="_blank"
+                                    href="https://tradezellamarkets.com/register" 
                                     class="home-trades_card w-inline-block">
                                     <div class="home-trades-card_wrapper-text">
                                         <h3 class="heading-style-4 heading-style-4-white">Automated Trading</h3>
@@ -716,7 +716,7 @@
                                         loading="lazy" class="home-trades-card_img" />
                                 </a>
                                 <a data-w-id="98bd8ddd-c186-68d8-0ddf-6094759ca516"
-                                    href="https://tradezellamarkets.com/register" target="_blank"
+                                    href="https://tradezellamarkets.com/register" 
                                     class="home-trades_card is-trades-card-2 w-inline-block">
                                     <div class="home-trades-card_wrapper-text">
                                         <h3 class="heading-style-4 heading-style-4-white"> Unlimited Strategies </h3>
@@ -730,7 +730,7 @@
                                     <div style="opacity:1" class="home-insights_hover"></div>
                                 </a>
                                 <a data-w-id="98bd8ddd-c186-68d8-0ddf-6094759ca51e"
-                                    href="https://tradezellamarkets.com/register" target="_blank"
+                                    href="https://tradezellamarkets.com/register" 
                                     class="home-trades_card is-trades-card-3 w-inline-block">
                                     <div class="home-trades-card_wrapper-text">
                                         <h3 class="heading-style-4 heading-style-4-white">Automated Statistics</h3>
@@ -806,7 +806,7 @@
                                     strengths or weaknesses, and improve your trading strategy.</div>
                             </div>
                         </div>
-                        <a id="get-started-3" href="https://tradezellamarkets.com/register" target="_blank"
+                        <a id="get-started-3" href="https://tradezellamarkets.com/register" 
                             class="large-button large-button-home w-inline-block">
                             <div class="large-button-hover"></div>
                             <div class="large-button-text">Get Started Now<span class="right-arrow-white">&gt;</span>
@@ -814,7 +814,7 @@
                         </a>
                         <div class="home-insights_wrapper-card">
                             <a data-w-id="92462478-0a80-b22d-eaa5-244754645566"
-                                href="https://tradezellamarkets.com/register" target="_blank"
+                                href="https://tradezellamarkets.com/register" 
                                 class="home-insights_card w-inline-block">
                                 <div class="home-insights_banner-text">
                                     <div class="home-insights_wrapper-heading">
@@ -839,7 +839,7 @@
                                     loading="eager" style="opacity:0.03" alt="" class="home-insights_triangle" />
                             </a>
                             <a data-w-id="92462478-0a80-b22d-eaa5-244754645572"
-                                href="https://tradezellamarkets.com/register" target="_blank"
+                                href="https://tradezellamarkets.com/register" 
                                 class="home-insights_card is-insights_card-2 w-inline-block">
                                 <div class="home-insights_banner-text">
                                     <div class="home-insights_wrapper-heading">
@@ -865,7 +865,7 @@
                                     loading="eager" style="opacity:0.03" alt="" class="home-insights_triangle" />
                             </a>
                             <a data-w-id="92462478-0a80-b22d-eaa5-24475464557e"
-                                href="https://tradezellamarkets.com/register" target="_blank"
+                                href="https://tradezellamarkets.com/register" 
                                 class="home-insights_card is-insights_card-3 w-inline-block">
                                 <div class="home-insights_banner-text">
                                     <div class="home-insights_wrapper-heading">
@@ -916,7 +916,7 @@
                         </div>
                         <div class="home-strategy_wrapper-card">
                             <a data-w-id="92462478-0a80-b22d-eaa5-24475464559c"
-                                href="https://tradezellamarkets.com/register" target="_blank"
+                                href="https://tradezellamarkets.com/register" 
                                 class="home-insights_card w-inline-block">
                                 <div class="home-insights_banner-text">
                                     <div class="home-insights_wrapper-heading">
@@ -937,7 +937,7 @@
                                     loading="eager" style="opacity:0.03" alt="" class="home-insights_triangle" />
                             </a>
                             <a data-w-id="92462478-0a80-b22d-eaa5-2447546455a8"
-                                href="https://tradezellamarkets.com/register" target="_blank"
+                                href="https://tradezellamarkets.com/register" 
                                 class="home-insights_card is-insights_card-2 w-inline-block">
                                 <div class="home-insights_banner-text">
                                     <div class="home-insights_wrapper-heading">
@@ -979,7 +979,7 @@
                                     <h2 class="heading-style-1 align-centre">Take it one step further. <span
                                             class="home_span">Backtest. Replay. Improve</span>.</h2>
                                 </div>
-                                <a id="get-started-5" href="https://tradezellamarkets.com/register" target="_blank"
+                                <a id="get-started-5" href="https://tradezellamarkets.com/register" 
                                     class="large-button large-button-home w-inline-block">
                                     <div class="large-button-hover"></div>
                                     <div class="large-button-text">Get Started Today<span
@@ -1041,7 +1041,7 @@
                                                     <p class="text-medium">Go back in time with the Trade Replay. Tag
                                                         your mistakes or strategies. Set the speed. Add a second chart.
                                                         And much more.</p>
-                                                    <a href="https://tradezellamarkets.com/register" target="_blank"
+                                                    <a href="https://tradezellamarkets.com/register" 
                                                         class="holder-link w-inline-block">
                                                         <div aria-label="learn more about trade replay">Learn more<span
                                                                 class="span-learn-more"> about Trade replay</span></div>
@@ -1063,7 +1063,7 @@
                                                     <p class="text-medium">Use every tool in TradeZella together to
                                                         improve your trading strategy. Watch the statistics speak for
                                                         themselves. </p>
-                                                    <a href="https://tradezellamarkets.com/register" target="_blank"
+                                                    <a href="https://tradezellamarkets.com/register" 
                                                         class="holder-link w-inline-block">
                                                         <div aria-label="Learn more how to improve trading strategy">
                                                             Learn more<span class="span-learn-more"> how to improve
@@ -1107,7 +1107,7 @@
                                             share with traders all over the world.</p>
                                     </div>
                                 </div>
-                                <a id="get-started-6" href="https://tradezellamarkets.com/register" target="_blank"
+                                <a id="get-started-6" href="https://tradezellamarkets.com/register" 
                                     class="large-button large-button-home w-inline-block">
                                     <div class="large-button-hover"></div>
                                     <div class="large-button-text">Get Started Today<span
